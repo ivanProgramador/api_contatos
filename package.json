@@ -1,0 +1,24 @@
+{
+  "name": "api_contatos",
+  "version": "1.0.0",
+  "description": "Essa é uma pai desenvolvida pra fixar conhecimento",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanProgramador/api_contatos.git"
+  },
+  "author": "Ivan Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanProgramador/api_contatos/issues"
+  },
+  "homepage": "https://github.com/ivanProgramador/api_contatos#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
